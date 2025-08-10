@@ -1,7 +1,7 @@
 from random import randint
 
 
-number_1 = randint(1, 200)
+number_1 = randint(1, 100)
 
 
 def main():
